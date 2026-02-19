@@ -1,0 +1,2879 @@
+{
+  "2010-11": [
+    {
+      "player": "Víctor Valdés",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Pinto",
+      "age": 34,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Oier Olazábal",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Miño",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Dani Alves",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Montoya",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Maxwell",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Adriano",
+      "age": 28,
+      "transfer_fee": "9.5M"
+    },
+    {
+      "player": "Piqué",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Abidal",
+      "age": 31,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Puyol",
+      "age": 32,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Milito",
+      "age": 33,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Fontàs",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Bartra",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Muniesa",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Sergi Gómez",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Iniesta",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Xavi",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Busquets",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Keita",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Mascherano",
+      "age": 26,
+      "transfer_fee": "20.0M"
+    },
+    {
+      "player": "Thiago Alcántara",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Jonathan dos Santos",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Sergi Roberto",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Romeu",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Bojan",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Ibrahimović",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Villa",
+      "age": 28,
+      "transfer_fee": "40.0M"
+    },
+    {
+      "player": "Messi",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Pedro",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Afellay",
+      "age": 24,
+      "transfer_fee": "3.0M"
+    },
+    {
+      "player": "Jeffrén",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Nolito",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Víctor Vázquez",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Deulofeu",
+      "age": 16,
+      "transfer_fee": "0"
+    }
+  ],
+  "2011-12": [
+    {
+      "player": "Víctor Valdés",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Pinto",
+      "age": 35,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Oier Olazábal",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Dani Alves",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Montoya",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Adriano",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Maxwell",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Mascherano",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Puyol",
+      "age": 33,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Abidal",
+      "age": 32,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Piqué",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Fontàs",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Bartra",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Muniesa",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Sergi Gómez",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Busquets",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Xavi",
+      "age": 31,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Iniesta",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Thiago Alcántara",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Keita",
+      "age": 31,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Jonathan dos Santos",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Sergi Roberto",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Riverola",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Kiko Femenía",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Rafinha",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Messi",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Fàbregas",
+      "age": 24,
+      "transfer_fee": "34.0M"
+    },
+    {
+      "player": "Pedro",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Alexis Sánchez",
+      "age": 22,
+      "transfer_fee": "26.0M"
+    },
+    {
+      "player": "Cuenca",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Villa",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Tello",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Afellay",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Deulofeu",
+      "age": 17,
+      "transfer_fee": "0"
+    }
+  ],
+  "2012-13": [
+    {
+      "player": "Víctor Valdés",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Pinto",
+      "age": 36,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Oier Olazábal",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Masip",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Dani Alves",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Montoya",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Jordi Alba",
+      "age": 23,
+      "transfer_fee": "14.0M"
+    },
+    {
+      "player": "Adriano",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Planas",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Piqué",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Mascherano",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Puyol",
+      "age": 34,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Bartra",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Abidal",
+      "age": 33,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Fontàs",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Sergi Gómez",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Fàbregas",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Busquets",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Iniesta",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Xavi",
+      "age": 32,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Thiago Alcántara",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Song",
+      "age": 25,
+      "transfer_fee": "19.0M"
+    },
+    {
+      "player": "Jonathan dos Santos",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Sergi Roberto",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Rafinha",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Messi",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Pedro",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Alexis Sánchez",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Villa",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Tello",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Deulofeu",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Cuenca",
+      "age": 21,
+      "transfer_fee": "0"
+    }
+  ],
+  "2013-14": [
+    {
+      "player": "Víctor Valdés",
+      "age": 31,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Pinto",
+      "age": 37,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Oier Olazábal",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Dani Alves",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Montoya",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Sergi Roberto",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Patric",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Adriano",
+      "age": 31,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Jordi Alba",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Mascherano",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Piqué",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Bartra",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Puyol",
+      "age": 35,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Sergi Gómez",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Busquets",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Fàbregas",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Iniesta",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Xavi",
+      "age": 33,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Song",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Jonathan dos Santos",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Messi",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Pedro",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Alexis Sánchez",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Neymar",
+      "age": 21,
+      "transfer_fee": "88.0M"
+    },
+    {
+      "player": "Tello",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Afellay",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Dongou",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Adama",
+      "age": 17,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Cuenca",
+      "age": 22,
+      "transfer_fee": "0"
+    }
+  ],
+  "2014-15": [
+    {
+      "player": "Claudio Bravo",
+      "age": 31,
+      "transfer_fee": "12.0M"
+    },
+    {
+      "player": "Masip",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Ter Stegen",
+      "age": 22,
+      "transfer_fee": "12.0M"
+    },
+    {
+      "player": "Dani Alves",
+      "age": 31,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Sergi Roberto",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Montoya",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Douglas",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Jordi Alba",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Adriano",
+      "age": 32,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Mascherano",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Piqué",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Mathieu",
+      "age": 30,
+      "transfer_fee": "20.0M"
+    },
+    {
+      "player": "Bartra",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Vermaelen",
+      "age": 28,
+      "transfer_fee": "19.0M"
+    },
+    {
+      "player": "Diagne",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Ié",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Busquets",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Rakitić",
+      "age": 26,
+      "transfer_fee": "18.0M"
+    },
+    {
+      "player": "Xavi",
+      "age": 34,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Iniesta",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Rafinha",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Gumbau",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Samper",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Halilović",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Luis Suárez",
+      "age": 27,
+      "transfer_fee": "81.7M"
+    },
+    {
+      "player": "Messi",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Neymar",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Pedro",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Munir",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Sandro",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Adama",
+      "age": 18,
+      "transfer_fee": "0"
+    }
+  ],
+  "2015-16": [
+    {
+      "player": "Claudio Bravo",
+      "age": 32,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Ter Stegen",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Masip",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Dani Alves",
+      "age": 32,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Sergi Roberto",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Aleix Vidal",
+      "age": 25,
+      "transfer_fee": "17.0M"
+    },
+    {
+      "player": "Douglas",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Jordi Alba",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Adriano",
+      "age": 33,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Mascherano",
+      "age": 31,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Piqué",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Mathieu",
+      "age": 31,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Bartra",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Vermaelen",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Busquets",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Rakitić",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Iniesta",
+      "age": 31,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Arda Turan",
+      "age": 28,
+      "transfer_fee": "34.0M"
+    },
+    {
+      "player": "Rafinha",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Gumbau",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Samper",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Kaptoum",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Cantalapiedra",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Aleñá",
+      "age": 17,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Luis Suárez",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Neymar",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Messi",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Munir",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Sandro",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Cámara",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Pedro",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Dani Romera",
+      "age": 18,
+      "transfer_fee": "0"
+    }
+  ],
+  "2016-17": [
+    {
+      "player": "Ter Stegen",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Cillessen",
+      "age": 27,
+      "transfer_fee": "13.0M"
+    },
+    {
+      "player": "Claudio Bravo",
+      "age": 33,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Masip",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Sergi Roberto",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Aleix Vidal",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Nili",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Douglas",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Jordi Alba",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Digne",
+      "age": 23,
+      "transfer_fee": "16.5M"
+    },
+    {
+      "player": "Piqué",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Umtiti",
+      "age": 22,
+      "transfer_fee": "25.0M"
+    },
+    {
+      "player": "Mascherano",
+      "age": 32,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Mathieu",
+      "age": 32,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Marlon",
+      "age": 20,
+      "transfer_fee": "5.0M"
+    },
+    {
+      "player": "Borja López",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Busquets",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Rakitić",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "André Gomes",
+      "age": 23,
+      "transfer_fee": "37.0M"
+    },
+    {
+      "player": "Denis Suárez",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Iniesta",
+      "age": 32,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Arda Turan",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Rafinha",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Aleñá",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Samper",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Kaptoum",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Carbonell",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Luis Suárez",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Alcácer",
+      "age": 23,
+      "transfer_fee": "30.0M"
+    },
+    {
+      "player": "Messi",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Neymar",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Munir",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Cardona",
+      "age": 20,
+      "transfer_fee": "0"
+    }
+  ],
+  "2017-18": [
+    {
+      "player": "Ter Stegen",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Cillessen",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Ortolá",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Sergi Roberto",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Semedo",
+      "age": 23,
+      "transfer_fee": "35.7M"
+    },
+    {
+      "player": "Aleix Vidal",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Jordi Alba",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Digne",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Cucurella",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Piqué",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Umtiti",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Vermaelen",
+      "age": 31,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Mascherano",
+      "age": 33,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Yerry Mina",
+      "age": 23,
+      "transfer_fee": "12.4M"
+    },
+    {
+      "player": "David Costas",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Rakitić",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Busquets",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Iniesta",
+      "age": 33,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Paulinho",
+      "age": 29,
+      "transfer_fee": "40.0M"
+    },
+    {
+      "player": "André Gomes",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Denis Suárez",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Aleñá",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Arda Turan",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Oriol Busquets",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Rafinha",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Luis Suárez",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Alcácer",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Messi",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Coutinho",
+      "age": 25,
+      "transfer_fee": "135.0M"
+    },
+    {
+      "player": "Dembélé",
+      "age": 20,
+      "transfer_fee": "135.0M"
+    },
+    {
+      "player": "Deulofeu",
+      "age": 23,
+      "transfer_fee": "12.0M"
+    },
+    {
+      "player": "Arnaiz",
+      "age": 22,
+      "transfer_fee": "5.0M"
+    }
+  ],
+  "2018-19": [
+    {
+      "player": "Ter Stegen",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Cillessen",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Iñaki Peña",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Ezkieta",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Sergi Roberto",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Semedo",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Wagué",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Guillem Jaime",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Jordi Alba",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Miranda",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Piqué",
+      "age": 31,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Lenglet",
+      "age": 23,
+      "transfer_fee": "35.9M"
+    },
+    {
+      "player": "Umtiti",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Vermaelen",
+      "age": 32,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Murillo",
+      "age": 26,
+      "transfer_fee": "1.2M"
+    },
+    {
+      "player": "Todibo",
+      "age": 18,
+      "transfer_fee": "1.0M"
+    },
+    {
+      "player": "Chumi",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Cuenca",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Busquets",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Rakitić",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Vidal",
+      "age": 31,
+      "transfer_fee": "18.0M"
+    },
+    {
+      "player": "Arthur",
+      "age": 22,
+      "transfer_fee": "31.0M"
+    },
+    {
+      "player": "Aleñá",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Rafinha",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Riqui Puig",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Denis Suárez",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Collado",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Samper",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Oriol Busquets",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Luis Suárez",
+      "age": 31,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Messi",
+      "age": 31,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Coutinho",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Dembélé",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Malcom",
+      "age": 21,
+      "transfer_fee": "41.0M"
+    },
+    {
+      "player": "Munir",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Boateng",
+      "age": 31,
+      "transfer_fee": "1.0M"
+    },
+    {
+      "player": "Abel Ruiz",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Carles Pérez",
+      "age": 20,
+      "transfer_fee": "0"
+    }
+  ],
+  "2019-20": [
+    {
+      "player": "Ter Stegen",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Neto",
+      "age": 30,
+      "transfer_fee": "26.0M"
+    },
+    {
+      "player": "Iñaki Peña",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Tenas",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Semedo",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Wagué",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Morer",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Jordi Alba",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Junior Firpo",
+      "age": 23,
+      "transfer_fee": "20.0M"
+    },
+    {
+      "player": "Akieme",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Piqué",
+      "age": 32,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Lenglet",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Umtiti",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Araújo",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Todibo",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Cuenca",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Chumi",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Mingueza",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Busquets",
+      "age": 31,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Sergi Roberto",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "De Jong",
+      "age": 22,
+      "transfer_fee": "86.0M"
+    },
+    {
+      "player": "Vidal",
+      "age": 32,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Rakitić",
+      "age": 31,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Arthur",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Riqui Puig",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Aleñá",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Rafinha",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Monchu",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Jandro",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Reis",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Luis Suárez",
+      "age": 32,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Messi",
+      "age": 32,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Griezmann",
+      "age": 28,
+      "transfer_fee": "120.0M"
+    },
+    {
+      "player": "Ansu Fati",
+      "age": 17,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Carles Pérez",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Braithwaite",
+      "age": 28,
+      "transfer_fee": "18.0M"
+    },
+    {
+      "player": "Dembélé",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Collado",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Manaj",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Saverio",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Abel Ruiz",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "De la Fuente",
+      "age": 18,
+      "transfer_fee": "0"
+    }
+  ],
+  "2020-21": [
+    {
+      "player": "Ter Stegen",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Neto",
+      "age": 31,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Iñaki Peña",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Tenas",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Dest",
+      "age": 20,
+      "transfer_fee": "21.0M"
+    },
+    {
+      "player": "Sergi Roberto",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Jordi Alba",
+      "age": 31,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Junior Firpo",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Lenglet",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Mingueza",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Araújo",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Piqué",
+      "age": 33,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Umtiti",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Ramos Mingo",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "De Jong",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Busquets",
+      "age": 32,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Pedri",
+      "age": 17,
+      "transfer_fee": "23.0M"
+    },
+    {
+      "player": "Pjanić",
+      "age": 30,
+      "transfer_fee": "60.0M"
+    },
+    {
+      "player": "Riqui Puig",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Coutinho",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Ilaix Moriba",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Aleñá",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Matheus Fernandes",
+      "age": 22,
+      "transfer_fee": "7.0M"
+    },
+    {
+      "player": "Rafinha",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Collado",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Messi",
+      "age": 33,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Griezmann",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Dembélé",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Braithwaite",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Trincão",
+      "age": 20,
+      "transfer_fee": "30.94M"
+    },
+    {
+      "player": "Ansu Fati",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "De la Fuente",
+      "age": 19,
+      "transfer_fee": "0"
+    }
+  ],
+  "2021-22": [
+    {
+      "player": "Ter Stegen",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Neto",
+      "age": 32,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Iñaki Peña",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Tenas",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Carević",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Dest",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Mingueza",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Dani Alves",
+      "age": 38,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Emerson Royal",
+      "age": 22,
+      "transfer_fee": "14.0M"
+    },
+    {
+      "player": "Guillem Jaime",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Jordi Alba",
+      "age": 32,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Balde",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Araújo",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Piqué",
+      "age": 34,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Eric Garcia",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Lenglet",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Umtiti",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Mika Mármol",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Comas",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Busquets",
+      "age": 33,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "De Jong",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Gavi",
+      "age": 17,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Nico",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Pedri",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Riqui Puig",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Coutinho",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Sergi Roberto",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Álvaro Sanz",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Jandro",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "De Vega",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Pjanić",
+      "age": 31,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Memphis",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Ferran Torres",
+      "age": 21,
+      "transfer_fee": "55.0M"
+    },
+    {
+      "player": "Dembélé",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Aubameyang",
+      "age": 32,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Abde",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Adama",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Ansu Fati",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Jutglà",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Demir",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Braithwaite",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Griezmann",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Agüero",
+      "age": 33,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Akhomach",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Estanis",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Manaj",
+      "age": 24,
+      "transfer_fee": "0"
+    }
+  ],
+  "2022-23": [
+    {
+      "player": "Ter Stegen",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Iñaki Peña",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Tenas",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Astralaga",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Koundé",
+      "age": 23,
+      "transfer_fee": "50.0M"
+    },
+    {
+      "player": "Sergi Roberto",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Bellerín",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Balde",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Jordi Alba",
+      "age": 33,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Valle",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Christensen",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Araújo",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Eric Garcia",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Marcos Alonso",
+      "age": 31,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Piqué",
+      "age": 35,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Riad",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Gavi",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "De Jong",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Busquets",
+      "age": 34,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Pedri",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Kessié",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Pablo Torre",
+      "age": 19,
+      "transfer_fee": "6.0M"
+    },
+    {
+      "player": "Casadó",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Aleix Garrido",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Pjanić",
+      "age": 32,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Unai Hernández",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Prim",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Álvaro Sanz",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Lewandowski",
+      "age": 34,
+      "transfer_fee": "45.0M"
+    },
+    {
+      "player": "Guiu",
+      "age": 16,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Raphinha",
+      "age": 25,
+      "transfer_fee": "58.0M"
+    },
+    {
+      "player": "Ansu Fati",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Ferran Torres",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Dembélé",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Alarcón",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Memphis",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Lamine Yamal",
+      "age": 15,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Aubameyang",
+      "age": 33,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Estanis",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Dani Rodríguez",
+      "age": 17,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Akhomach",
+      "age": 19,
+      "transfer_fee": "0"
+    }
+  ],
+  "2023-24": [
+    {
+      "player": "Ter Stegen",
+      "age": 31,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Iñaki Peña",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Kochen",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Astralaga",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Yaakobishvili",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Koundé",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Sergi Roberto",
+      "age": 31,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Fort",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "João Cancelo",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Balde",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Marcos Alonso",
+      "age": 32,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Christensen",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Araújo",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Cubarsí",
+      "age": 17,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Iñigo Martínez",
+      "age": 32,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Eric Garcia",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Faye",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Gündoğan",
+      "age": 33,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "De Jong",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Pedri",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Fermín",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Romeu",
+      "age": 32,
+      "transfer_fee": "3.4M"
+    },
+    {
+      "player": "Gavi",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Casadó",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Aleix Garrido",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Prim",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Lewandowski",
+      "age": 35,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Vitor Roque",
+      "age": 18,
+      "transfer_fee": "30.0M"
+    },
+    {
+      "player": "Guiu",
+      "age": 17,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Lamine Yamal",
+      "age": 16,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "João Félix",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Raphinha",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Ferran Torres",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Ansu Fati",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Abde",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Unai Hernández",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Pau Víctor",
+      "age": 22,
+      "transfer_fee": "5.5M"
+    },
+    {
+      "player": "Alarcón",
+      "age": 20,
+      "transfer_fee": "0"
+    }
+  ],
+  "2024-25": [
+    {
+      "player": "Iñaki Peña",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Szczęsny",
+      "age": 34,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Ter Stegen",
+      "age": 32,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Kochen",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Astralaga",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Yaakobishvili",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Koundé",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Fort",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Farré",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Balde",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Gerard Martín",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Valle",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Cubarsí",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Iñigo Martínez",
+      "age": 33,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Araújo",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Christensen",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Domínguez",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Cuenca",
+      "age": 33,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Cortés",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Olmedo",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Pedri",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Casadó",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Eric Garcia",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Fermín",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Gavi",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Dani Olmo",
+      "age": 26,
+      "transfer_fee": "55.0M"
+    },
+    {
+      "player": "De Jong",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Pablo Torre",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Bernal",
+      "age": 17,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Guillermo",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Darvich",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Lewandowski",
+      "age": 36,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Raphinha",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Lamine Yamal",
+      "age": 17,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Ferran Torres",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Pau Víctor",
+      "age": 23,
+      "transfer_fee": "5.5M"
+    },
+    {
+      "player": "Ansu Fati",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Dani Rodríguez",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Toni Fernández",
+      "age": 19,
+      "transfer_fee": "0"
+    }
+  ],
+  "2025-26": [
+    {
+      "player": "Joan Garcia",
+      "age": 24,
+      "transfer_fee": "25.0M"
+    },
+    {
+      "player": "Szczęsny",
+      "age": 35,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Kochen",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Aller",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Ter Stegen",
+      "age": 33,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Iñaki Peña",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Koundé",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Balde",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Torrents",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "João Cancelo",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Cubarsí",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Gerard Martín",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Araújo",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Christensen",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Eric Garcia",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Pedri",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "De Jong",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Dani Olmo",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Fermín",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Casadó",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Bernal",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Dro",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Gavi",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Marqués",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Espart",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Hernández",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Guillermo",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Lewandowski",
+      "age": 37,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Ferran Torres",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Lamine Yamal",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Rashford",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Raphinha",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Bardghji",
+      "age": 20,
+      "transfer_fee": "2.5M"
+    },
+    {
+      "player": "Toni Fernández",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Dani Rodríguez",
+      "age": 20,
+      "transfer_fee": "0"
+    }
+  ]
+}

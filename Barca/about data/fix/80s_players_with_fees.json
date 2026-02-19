@@ -1,0 +1,1452 @@
+{
+  "1979-80": [
+    {
+      "player": "Artola",
+      "age": 31,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Amigó",
+      "age": 25,
+      "transfer_fee": "72k"
+    },
+    {
+      "player": "Huguet",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Llangostera",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Ramos",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Zuviría",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Manolo",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "De la Cruz",
+      "age": 32,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Migueli",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Olmo",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Serrat",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Canito",
+      "age": 23,
+      "transfer_fee": "270k"
+    },
+    {
+      "player": "Albaladejo",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Landaburu",
+      "age": 24,
+      "transfer_fee": "180k"
+    },
+    {
+      "player": "Asensi",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Tente Sánchez",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Julián Rubio",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Estella",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Costas",
+      "age": 32,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Paco Martínez",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Isidre Tarrés",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Simonsen",
+      "age": 27,
+      "transfer_fee": "660k"
+    },
+    {
+      "player": "Rexach",
+      "age": 32,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Carrasco",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Esteban Vigo",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Heredia",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Krankl",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Roberto Dinamite",
+      "age": 25,
+      "transfer_fee": "300k"
+    },
+    {
+      "player": "Ramírez",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Miguel Mir",
+      "age": 24,
+      "transfer_fee": "0"
+    }
+  ],
+  "1980-81": [
+    {
+      "player": "Artola",
+      "age": 32,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Amador",
+      "age": 25,
+      "transfer_fee": "150k"
+    },
+    {
+      "player": "Llangostera",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Ramos",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Zuviría",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Manolo",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Alexanco",
+      "age": 24,
+      "transfer_fee": "720k"
+    },
+    {
+      "player": "Olmo",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Migueli",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Pérez Contreras",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Canito",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Albaladejo",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Schuster",
+      "age": 20,
+      "transfer_fee": "1.14M"
+    },
+    {
+      "player": "Tente Sánchez",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Estella",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Landaburu",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Paco Martínez",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Asensi",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Julián Rubio",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Vilà",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Félix",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Casas",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Pedraza",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Quini",
+      "age": 31,
+      "transfer_fee": "480k"
+    },
+    {
+      "player": "Simonsen",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Esteban Vigo",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Ramírez",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Krankl",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Carrasco",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Rexach",
+      "age": 33,
+      "transfer_fee": "0"
+    }
+  ],
+  "1981-82": [
+    {
+      "player": "Artola",
+      "age": 33,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Urruti",
+      "age": 28,
+      "transfer_fee": "390k"
+    },
+    {
+      "player": "Amador",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Ramos",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Gerardo",
+      "age": 26,
+      "transfer_fee": "270k"
+    },
+    {
+      "player": "Manolo",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Zuviría",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Olmo",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Alexanco",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Moratalla",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Migueli",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Víctor Muñoz",
+      "age": 24,
+      "transfer_fee": "510k"
+    },
+    {
+      "player": "Tente Sánchez",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Estella",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Schuster",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Paco Martínez",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Landaburu",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Cleo",
+      "age": 22,
+      "transfer_fee": "90k"
+    },
+    {
+      "player": "Quini",
+      "age": 32,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Simonsen",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Morán",
+      "age": 27,
+      "transfer_fee": "390k"
+    },
+    {
+      "player": "Esteban Vigo",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Carrasco",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Ramírez",
+      "age": 25,
+      "transfer_fee": "0"
+    }
+  ],
+  "1982-83": [
+    {
+      "player": "Urruti",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Artola",
+      "age": 34,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Amador",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Gerardo",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Julio Alberto",
+      "age": 25,
+      "transfer_fee": "480k"
+    },
+    {
+      "player": "Manolo",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Alexanco",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Migueli",
+      "age": 31,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Moratalla",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Olmo",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Víctor Muñoz",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Schuster",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Periko Alonso",
+      "age": 29,
+      "transfer_fee": "420k"
+    },
+    {
+      "player": "Tente Sánchez",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Urbano",
+      "age": 23,
+      "transfer_fee": "420k"
+    },
+    {
+      "player": "Estella",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Quini",
+      "age": 33,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Pichi Alonso",
+      "age": 24,
+      "transfer_fee": "420k"
+    },
+    {
+      "player": "Marcos Alonso",
+      "age": 25,
+      "transfer_fee": "720k"
+    },
+    {
+      "player": "Carrasco",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Maradona",
+      "age": 22,
+      "transfer_fee": "7.30M"
+    },
+    {
+      "player": "Esteban Vigo",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Morán",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Clos",
+      "age": 25,
+      "transfer_fee": "0"
+    }
+  ],
+  "1983-84": [
+    {
+      "player": "Urruti",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Artola",
+      "age": 35,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Amador",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Fernández",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Gerardo",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Julio Alberto",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Manolo",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Alexanco",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Migueli",
+      "age": 32,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Moratalla",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Olmo",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Carreras",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Víctor Muñoz",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Tente Sánchez",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Periko Alonso",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Schuster",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Urbano",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Calderé",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Pedraza",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Quini",
+      "age": 34,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Pichi Alonso",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Carlos",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Carrasco",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Marcos Alonso",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Maradona",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Rojo",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Esteban Vigo",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Clos",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Gabrich",
+      "age": 20,
+      "transfer_fee": "120k"
+    },
+    {
+      "player": "Morán",
+      "age": 29,
+      "transfer_fee": "0"
+    }
+  ],
+  "1984-85": [
+    {
+      "player": "Urruti",
+      "age": 31,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Amador",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Abellán",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Font",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Gerardo",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Julio Alberto",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Manolo",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Endrino",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Alexanco",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Migueli",
+      "age": 33,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Moratalla",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Salva",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Bueno",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Aranda",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Padilla",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Carreras",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Schuster",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Víctor Muñoz",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Calderé",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Tente Sánchez",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Periko Alonso",
+      "age": 31,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Urbano",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Cristóbal Sánchez",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Milla",
+      "age": 18,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Martín Domínguez",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Retuerto",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Durán",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Pichi Alonso",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Archibald",
+      "age": 27,
+      "transfer_fee": "2.00M"
+    },
+    {
+      "player": "Rojo",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Carrasco",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Esteban Vigo",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Clos",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Marcos Alonso",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "López López",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Lobo",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Lluís",
+      "age": 18,
+      "transfer_fee": "0"
+    }
+  ],
+  "1985-86": [
+    {
+      "player": "Urruti",
+      "age": 32,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Amador",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Covelo",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Gerardo",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Julio Alberto",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Manolo",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Alexanco",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Migueli",
+      "age": 34,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Moratalla",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Fradera",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Salva",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Capella",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Calderé",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Víctor Muñoz",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Schuster",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Pedraza",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Tente Sánchez",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Urbano",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Villarroya",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Nayim",
+      "age": 19,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Pichi Alonso",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Carrasco",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Marcos Alonso",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Clos",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Amarilla",
+      "age": 25,
+      "transfer_fee": "300k"
+    },
+    {
+      "player": "Esteban Vigo",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Archibald",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Rojo",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "López López",
+      "age": 20,
+      "transfer_fee": "0"
+    }
+  ],
+  "1986-87": [
+    {
+      "player": "Zubizarreta",
+      "age": 25,
+      "transfer_fee": "1.90M"
+    },
+    {
+      "player": "Urruti",
+      "age": 33,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Gerardo",
+      "age": 31,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Julio Alberto",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Manolo",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Migueli",
+      "age": 35,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Moratalla",
+      "age": 31,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Fradera",
+      "age": 23,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Salva",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Alexanco",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Víctor Muñoz",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Robert",
+      "age": 24,
+      "transfer_fee": "750k"
+    },
+    {
+      "player": "Calderé",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Urbano",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Pedraza",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Nayim",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Schuster",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Lineker",
+      "age": 26,
+      "transfer_fee": "3.20M"
+    },
+    {
+      "player": "Carrasco",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Hughes",
+      "age": 23,
+      "transfer_fee": "3.00M"
+    },
+    {
+      "player": "Marcos Alonso",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Esteban Vigo",
+      "age": 31,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Archibald",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Rojo",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Amarilla",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Clos",
+      "age": 29,
+      "transfer_fee": "0"
+    }
+  ],
+  "1987-88": [
+    {
+      "player": "Zubizarreta",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Urruti",
+      "age": 34,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Covelo",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Gerardo",
+      "age": 32,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Cristóbal",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Julio Alberto",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Manolo",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Moratalla",
+      "age": 32,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Migueli",
+      "age": 36,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Salva",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Alexanco",
+      "age": 31,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Fradera",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Sergi",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Capella",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Víctor Muñoz",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Robert",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Urbano",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Schuster",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Calderé",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Pedraza",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Nayim",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Vinyals",
+      "age": 24,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Lineker",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Carrasco",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Clos",
+      "age": 30,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "López López",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Amarilla",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Linde",
+      "age": 18,
+      "transfer_fee": "0"
+    }
+  ],
+  "1988-89": [
+    {
+      "player": "Zubizarreta",
+      "age": 27,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Unzué",
+      "age": 21,
+      "transfer_fee": "1.10M"
+    },
+    {
+      "player": "Covelo",
+      "age": 25,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "López Rekarte",
+      "age": 26,
+      "transfer_fee": "960k"
+    },
+    {
+      "player": "Cristóbal",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Soler",
+      "age": 23,
+      "transfer_fee": "1.50M"
+    },
+    {
+      "player": "Julio Alberto",
+      "age": 31,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Serna",
+      "age": 24,
+      "transfer_fee": "1.25M"
+    },
+    {
+      "player": "Aloísio",
+      "age": 25,
+      "transfer_fee": "1.20M"
+    },
+    {
+      "player": "Alexanco",
+      "age": 32,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Sergi",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Salva",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Serer",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Migueli",
+      "age": 37,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Manolo Hierro",
+      "age": 26,
+      "transfer_fee": "900k"
+    },
+    {
+      "player": "Robert",
+      "age": 26,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Eusebio",
+      "age": 24,
+      "transfer_fee": "1.10M"
+    },
+    {
+      "player": "Milla",
+      "age": 22,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Bakero",
+      "age": 26,
+      "transfer_fee": "1.38M"
+    },
+    {
+      "player": "Amor",
+      "age": 20,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Urbano",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Romerito",
+      "age": 28,
+      "transfer_fee": "240k"
+    },
+    {
+      "player": "Roura",
+      "age": 21,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Julio Salinas",
+      "age": 26,
+      "transfer_fee": "1.10M"
+    },
+    {
+      "player": "Begiristain",
+      "age": 23,
+      "transfer_fee": "1.38M"
+    },
+    {
+      "player": "Lineker",
+      "age": 28,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Carrasco",
+      "age": 29,
+      "transfer_fee": "0"
+    },
+    {
+      "player": "Valverde",
+      "age": 24,
+      "transfer_fee": "1.50M"
+    }
+  ]
+}
